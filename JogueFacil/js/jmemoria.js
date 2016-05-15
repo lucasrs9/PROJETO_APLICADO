@@ -151,7 +151,6 @@ function CardGame (cards , controllerLogicGame,scoreBoard){
 
 function BuilderCardGame(){
     var pictures = new Array ('10.png','10.png',
-        '1.png','1.png',
         '2.png','2.png',
         '3.png','3.png',
         '4.png','4.png',
