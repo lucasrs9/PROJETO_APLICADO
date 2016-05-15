@@ -151,6 +151,7 @@ function CardGame (cards , controllerLogicGame,scoreBoard){
 
 function BuilderCardGame(){
     var pictures = new Array ('10.png','10.png',
+        '1.png','1.png',
         '2.png','2.png',
         '3.png','3.png',
         '4.png','4.png',
@@ -158,8 +159,7 @@ function BuilderCardGame(){
         '6.png','6.png',
         '7.png','7.png',
         '8.png','8.png',
-        '9.png','9.png',
-        'Aloísio Ferreira Gomes (Canarinho).png','Aloísio Ferreira Gomes (Canarinho).png');
+        '9.png','9.png',);
 
     this.doCardGame =  function (){
         shufflePictures();
