@@ -159,7 +159,8 @@ function BuilderCardGame(){
         '6.png','6.png',
         '7.png','7.png',
         '8.png','8.png',
-        '9.png','9.png');
+        '9.png','9.png',
+        'Aloísio Ferreira Gomes (Canarinho).png','Aloísio Ferreira Gomes (Canarinho).png');
 
     this.doCardGame =  function (){
         shufflePictures();
