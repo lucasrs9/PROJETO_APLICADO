@@ -210,6 +210,7 @@ function BuilderCardGame(){
 		'Roberto Rivellino.png','Roberto Rivellino.png' 
 		'Rodolfo Bottino.png','Rodolfo Bottino.png',
 		'Rodrigo Santoro.png','Rodrigo Santoro.png',
+		'Romário','Romário',
 		'Sebastião Vasconcelos.png','Sebastião Vasconcelos.png',
 		'Silvio Santos.png','Silvio Santos.png', 
 		'Susana Vieira.png','Susana Vieira.png',
